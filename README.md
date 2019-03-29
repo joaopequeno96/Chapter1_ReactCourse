@@ -31,7 +31,7 @@ In the project directory, you can run (with gitbash / cmd)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/joaopequeno96/SnakeGame/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/joaopequeno96/Chapter1_ReactCourse/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
